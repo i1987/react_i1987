@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/lianghuiyuan/i1987.git/precache-manifest.371d0550f39874b66d15ba88affa6293.js"
+  "/i1987/precache-manifest.42d7edb85736564a0d3589068752a0ba.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/lianghuiyuan/i1987.git/index.html", {
+workbox.routing.registerNavigationRoute("/i1987/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

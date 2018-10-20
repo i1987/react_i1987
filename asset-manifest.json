@@ -1,14 +1,14 @@
 {
-  "main.css": "/lianghuiyuan/i1987.git/static/css/main.d87f2606.chunk.css",
-  "main.js": "/lianghuiyuan/i1987.git/static/js/main.2663199e.chunk.js",
-  "main.js.map": "/lianghuiyuan/i1987.git/static/js/main.2663199e.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/lianghuiyuan/i1987.git/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/lianghuiyuan/i1987.git/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/lianghuiyuan/i1987.git/static/js/runtime~main.ee8c0b5f.js",
-  "runtime~main.js.map": "/lianghuiyuan/i1987.git/static/js/runtime~main.ee8c0b5f.js.map",
-  "static/media/logo.svg": "/lianghuiyuan/i1987.git/static/media/logo.5d5d9eef.svg",
-  "static/css/main.d87f2606.chunk.css.map": "/lianghuiyuan/i1987.git/static/css/main.d87f2606.chunk.css.map",
-  "index.html": "/lianghuiyuan/i1987.git/index.html",
-  "precache-manifest.371d0550f39874b66d15ba88affa6293.js": "/lianghuiyuan/i1987.git/precache-manifest.371d0550f39874b66d15ba88affa6293.js",
-  "service-worker.js": "/lianghuiyuan/i1987.git/service-worker.js"
+  "main.css": "/i1987/static/css/main.d87f2606.chunk.css",
+  "main.js": "/i1987/static/js/main.179bd00a.chunk.js",
+  "main.js.map": "/i1987/static/js/main.179bd00a.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/i1987/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/i1987/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/i1987/static/js/runtime~main.1103add7.js",
+  "runtime~main.js.map": "/i1987/static/js/runtime~main.1103add7.js.map",
+  "static/media/logo.svg": "/i1987/static/media/logo.5d5d9eef.svg",
+  "static/css/main.d87f2606.chunk.css.map": "/i1987/static/css/main.d87f2606.chunk.css.map",
+  "index.html": "/i1987/index.html",
+  "precache-manifest.42d7edb85736564a0d3589068752a0ba.js": "/i1987/precache-manifest.42d7edb85736564a0d3589068752a0ba.js",
+  "service-worker.js": "/i1987/service-worker.js"
 }
